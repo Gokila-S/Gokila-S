@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokila</h1>
 <h3 align="center">A passionate frontend developer 📈👩‍💻🚀</h3>
 
-- 🌱 I’m currently learning **Data structures and js**
+- 🌱 I’m currently learning **Data structures and Js**
 
 - 💬 Ask me about **C , Java , HTML , CSS and Bootstrap**
 
