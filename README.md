@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web technology and SQL**
 
-- 💬 Ask me about **C , Java , HTML , CSS , Bootstrap , Javascript and Data Structures**
+- 💬 Ask me about **C , Java , HTML , CSS , Bootstrap ,Git version control , Javascript and Data Structures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
