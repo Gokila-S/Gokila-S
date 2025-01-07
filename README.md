@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gokila</h1>
-<h3 align="center">A passionate software developer 🚀</h3>
+<h3 align="center">Aspiring software developer 🚀</h3>
 
-- 🌱 I’m currently learning **Data structures and Js**
+- 🌱 I’m currently learning **Web technology and SQL**
 
-- 💬 Ask me about **C , Java , HTML , CSS and Bootstrap**
+- 💬 Ask me about **C , Java , HTML , CSS , Bootstrap , Javascript and Data Structures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
