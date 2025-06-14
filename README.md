@@ -1,24 +1,15 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Gokila%20S&fontSize=70&animation=fadeIn&fontColor=6A5ACD&desc=Full-Stack%20Developer&descAlignY=75&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=hey,%20i'm%20Gokila!&fontSize=50&fontColor=ffffff&fontAlignY=40" />
 </div>
 
+  <h2 align="center" style="margin-bottom: 25px;">✨ About Me</h2>
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  🎓 I'm a 3rd-year Computer Science Engineering student <br>
+  💻 Passionate about <strong>Web Development (MERN stack)</strong> & <strong>Problem Solving</strong><br>
+  🗄️ Skilled in <strong>C, Java, HTML, CSS, JavaScript, SQL, Git, and GitHub</strong><br>
+  📚 Currently deepening my understanding of <strong>Data Structures</strong> and <strong>Database Systems</strong><br>
+  🚀 Always curious to learn, build, and collaborate on meaningful tech projects
 </p>
-
-<h2 align="center">✨ About Me</h2>
-<div align="center">
-  <div style="max-width: 70%;">
-🎓 CSE Student • Tech Enthusiast
-💻 Full-Stack Developer • Problem Solver
-🚀 Web Technologies • Backend Systems
-📊 SQL & Databases • Clean Code Advocate
-🧠 Logic & Innovation • Smart Solutions
-🤝 Team Player • Open Source Contributor<br>
-  </div>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" style="margin-left: 20px;">
-</div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
