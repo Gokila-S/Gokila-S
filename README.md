@@ -2,14 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=hey,%20i'm%20Gokila!&fontSize=50&fontColor=ffffff&fontAlignY=40" />
 </div>
 
-  <h2 align="center" style="margin-bottom: 25px;">✨ About Me</h2>
-<p align="center">
-  🎓 I'm a 3rd-year Computer Science Engineering student <br>
-  💻 Passionate about <strong>Web Development (MERN stack)</strong> & <strong>Problem Solving</strong><br>
-  🗄️ Skilled in <strong>C, Java, HTML, CSS, JavaScript, SQL, Git, and GitHub</strong><br>
-  📚 Currently deepening my understanding of <strong>Data Structures</strong> and <strong>Database Systems</strong><br>
-  🚀 Always curious to learn, build, and collaborate on meaningful tech projects
-</p>
+<h2 align="center">✨ About Me</h2>
+
+<div align="center">
+
+🎓 I'm a 3rd-year Computer Science Engineering student  
+💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong>  
+🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong>  
+📌 Comfortable with <strong>C, Java, and Python</strong>  
+🗄️ Skilled in <strong>SQL</strong> and version control using <strong>Git & GitHub</strong>  
+🚀 Eager to learn, build, and collaborate on impactful tech projects
+
+</div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
