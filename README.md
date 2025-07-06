@@ -5,21 +5,17 @@
 <h2 align="center">✨ About Me</h2>
 
 <div align="center">
-
-🎓 I'm a 3rd-year Computer Science Engineering student  
-💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong>  
-🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong>  
-📌 Comfortable with <strong>C, Java, and Python</strong>  
-🗄️ Skilled in <strong>SQL</strong> and version control using <strong>Git & GitHub</strong>  
-🚀 Eager to learn, build, and collaborate on impactful tech projects
-
+  🎓 I'm a 3rd-year Computer Science Engineering student<br>
+  💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong><br>
+  🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong><br>
+  📌 Comfortable with <strong>C, Java, and Python</strong><br>
+  🗄️ Skilled in <strong>SQL</strong> and version control using <strong>Git & GitHub</strong><br>
+  🚀 Eager to learn, build, and collaborate on impactful tech projects
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
+
 <div align="center">
   <table>
     <tr>
@@ -47,6 +43,7 @@
     </tr>
   </table>
 </div>
+
 <div align="center">
   <h3>🔧 Tools & Platforms</h3>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -56,9 +53,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <h2 align="center">📊 LeetCode Stats</h2>
 
@@ -66,9 +60,6 @@
   <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="500" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <h2 align="center">🔎 Current Focus</h2>
 
@@ -89,9 +80,6 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -110,10 +98,6 @@
 <div align="center">
   <p><i>Let's collaborate on exciting projects! Feel free to reach out.</i></p>
 </div>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" />
