@@ -13,6 +13,13 @@
   🚀 Eager to learn, build, and collaborate on impactful tech projects
 </div>
 
+<h2 align="center">📄 My Resume</h2>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/17Ba2Wghhqn1XjtOEX_9LWWFW_JfkwiXr/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-6A5ACD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
+</div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
