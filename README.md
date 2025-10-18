@@ -5,13 +5,16 @@
 <h2 align="center">✨ About Me</h2>
 
 <div align="center">
-  🎓 I'm a 3rd-year Computer Science Engineering student<br>
-  💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong><br>
-  🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong><br>
-  📌 Comfortable with <strong>C, Java, and Python</strong><br>
-  🗄️ Skilled in <strong>SQL</strong> and version control using <strong>Git & GitHub</strong><br>
-  🚀 Eager to learn, build, and collaborate on impactful tech projects
+  <div style="display: inline-block; text-align: left; line-height: 1.8; margin: 0 auto;">
+    <p style="margin:4px 0;">🎓 I'm a 3rd-year <strong>Computer Science Engineering</strong> student</p>
+    <p style="margin:4px 0;">💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong></p>
+    <p style="margin:4px 0;">🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong></p>
+    <p style="margin:4px 0;">📌 Comfortable with <strong>C, Java, and Python</strong></p>
+    <p style="margin:4px 0;">🗄️ Skilled in <strong>SQL, MongoDB</strong> and version control using <strong>Git & GitHub</strong></p>
+    <p style="margin:4px 0;">🚀 Eager to learn, build, and collaborate on impactful tech projects</p>
+  </div>
 </div>
+
 
 <h2 align="center">📄 My Resume</h2>
 
@@ -44,6 +47,7 @@
         <h3>⚙️ Backend & Database</h3>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
       </td>
@@ -60,13 +64,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
-
 <h2 align="center">📊 LeetCode Stats</h2>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="500" />
 </div>
-
 
 <h2 align="center">🔎 Current Focus</h2>
 
@@ -87,7 +89,6 @@
   </table>
 </div>
 
-
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
@@ -99,6 +100,9 @@
   </a>
   <a href="mailto:gokila.sakthivel1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://gokila-s-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
