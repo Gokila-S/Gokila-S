@@ -5,16 +5,22 @@
 <h2 align="center">✨ About Me</h2>
 
 <div align="center">
-  <div style="display: inline-block; text-align: left; line-height: 1.8; margin: 0 auto;">
-    <p style="margin:4px 0;">🎓 I'm a 3rd-year <strong>Computer Science Engineering</strong> student</p>
-    <p style="margin:4px 0;">💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong></p>
-    <p style="margin:4px 0;">🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong></p>
-    <p style="margin:4px 0;">📌 Comfortable with <strong>C, Java, and Python</strong></p>
-    <p style="margin:4px 0;">🗄️ Skilled in <strong>SQL, MongoDB</strong> and version control using <strong>Git & GitHub</strong></p>
-    <p style="margin:4px 0;">🚀 Eager to learn, build, and collaborate on impactful tech projects</p>
-  </div>
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <p>🎓 I'm a 3rd-year <strong>Computer Science Engineering</strong> student</p>
+        <p>💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong></p>
+        <p>🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong></p>
+        <p>📌 Comfortable with <strong>C, Java, and Python</strong></p>
+        <p>🗄️ Skilled in <strong>SQL, MongoDB</strong> and version control using <strong>Git & GitHub</strong></p>
+        <p>🚀 Eager to learn, build, and collaborate on impactful tech projects</p>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="350" alt="Coding GIF"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 <h2 align="center">📄 My Resume</h2>
 
