@@ -16,7 +16,7 @@
         <p>🚀 Eager to learn, build, and collaborate on impactful tech projects</p>
       </td>
       <td width="50%" valign="top" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="350" alt="Coding GIF"/>
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="350" alt="Coding GIF"/>
       </td>
     </tr>
   </table>
