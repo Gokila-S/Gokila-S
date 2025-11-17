@@ -2,20 +2,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=hey,%20i'm%20Gokila!&fontSize=50&fontColor=ffffff&fontAlignY=40" />
 </div>
 
+<h3 align="center">Full-Stack Developer • CSE Student • Problem Solver</h3>
+
+<div align="center">
+  <a href="https://gokila-s-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-6A5ACD?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br>
+
+<br>
+
 <h2 align="center">✨ About Me</h2>
 
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" valign="top" align="left">
-        <p>🎓 I'm a 3rd-year <strong>Computer Science Engineering</strong> student</p>
+      <td width="55%" valign="top">
+        <p>🎓 I'm a <strong>3rd-year Computer Science Engineering</strong> student</p>
         <p>💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong></p>
         <p>🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong></p>
         <p>📌 Comfortable with <strong>C, Java, and Python</strong></p>
         <p>🗄️ Skilled in <strong>SQL, MongoDB</strong> and version control using <strong>Git & GitHub</strong></p>
         <p>🚀 Eager to learn, build, and collaborate on impactful tech projects</p>
       </td>
-      <td width="50%" valign="top" align="center">
+      <td width="45%" valign="top" align="center">
         <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="350" alt="Coding GIF"/>
       </td>
     </tr>
@@ -26,9 +38,11 @@
 
 <div align="center">
   <a href="https://drive.google.com/file/d/17Ba2Wghhqn1XjtOEX_9LWWFW_JfkwiXr/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-6A5ACD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Download_Resume-6A5ACD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </div>
+
+<br>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -81,30 +95,41 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
+
+
 <h2 align="center">📊 LeetCode Stats</h2>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="500" />
 </div>
 
+<br>
+
 <h2 align="center">🔎 Current Focus</h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/238200621-8cae793d-6cf9-4e53-b0be-df43b448427e.gif" width="200">
-        <h3>MERN Stack Development</h3>
-        <p>Building full-stack applications with MongoDB, Express, React, and Node.js</p>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150">
+        <h3>Full Stack Development</h3>
+        <p>Mastering MERN stack to build scalable web applications</p>
       </td>
-      <td width="50%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/238115124-ac394ce2-2c77-484c-bc39-236a3b9c2fcb.gif" width="150">
-        <h3>Data Structures & Algorithms</h3>
-        <p>Deepening understanding of efficient algorithms and problem-solving techniques</p>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150">
+        <h3>Problem Solving</h3>
+        <p>Sharpening DSA skills through LeetCode and competitive coding</p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150">
+        <h3>AI & Machine Learning</h3>
+        <p>Exploring artificial intelligence and its applications in web development</p>
       </td>
     </tr>
   </table>
 </div>
+
+<br>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -126,6 +151,8 @@
 <div align="center">
   <p><i>Let's collaborate on exciting projects! Feel free to reach out.</i></p>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" />
