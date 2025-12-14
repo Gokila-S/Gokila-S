@@ -136,11 +136,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokila014&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
 <br>
 
 <h2 align="center">🤝 Let's Connect</h2>
