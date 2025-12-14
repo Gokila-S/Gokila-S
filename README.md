@@ -14,9 +14,9 @@
 
 <h2 align="center">✨ About Me</h2>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="top" style="border: none;">
       <p>• I'm a <strong>3rd-year Computer Science Engineering</strong> student</p>
       <p>• Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong></p>
       <p>• Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong></p>
@@ -25,7 +25,7 @@
       <p>• Solved <strong>300+ problems</strong> on LeetCode and actively participating in competitive programming</p>
       <p>• Eager to learn, build, and collaborate on impactful tech projects</p>
     </td>
-    <td width="45%" valign="top" align="center">
+    <td width="45%" valign="top" align="center" style="border: none;">
       <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="450" alt="Coding GIF"/>
     </td>
   </tr>
@@ -33,7 +33,7 @@
 
 <br>
 
-<h2 align="center">📄 My Resume</h2>
+<h2 align="center"> My Resume</h2>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1J5_ENwsVkKKGsVdR2HxkLPtrhTByYdjY/view?usp=sharing" target="_blank">
@@ -120,8 +120,25 @@
   </table>
 </div>
 
+<h2 align="center">🧩 LeetCode Journey</h2>
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="500" />
+</div>
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gokila-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokila-S&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokila014&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <br>
