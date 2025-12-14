@@ -12,27 +12,26 @@
 
 <br>
 
-<br>
-
 <h2 align="center">✨ About Me</h2>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="55%" valign="top">
-        <p>🎓 I'm a <strong>3rd-year Computer Science Engineering</strong> student</p>
-        <p>💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong></p>
-        <p>🛠️ Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong></p>
-        <p>📌 Comfortable with <strong>C, Java, and Python</strong></p>
-        <p>🗄️ Skilled in <strong>SQL, MongoDB</strong> and version control using <strong>Git & GitHub</strong></p>
-        <p>🚀 Eager to learn, build, and collaborate on impactful tech projects</p>
-      </td>
-      <td width="45%" valign="top" align="center">
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="350" alt="Coding GIF"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="top">
+      <p>• I'm a <strong>3rd-year Computer Science Engineering</strong> student</p>
+      <p>• Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong></p>
+      <p>• Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong></p>
+      <p>• Comfortable with <strong>C, Java, and Python</strong></p>
+      <p>• Skilled in <strong>SQL, MongoDB</strong> and version control using <strong>Git & GitHub</strong></p>
+      <p>• Solved <strong>300+ problems</strong> on LeetCode and actively participating in competitive programming</p>
+      <p>• Eager to learn, build, and collaborate on impactful tech projects</p>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="450" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <h2 align="center">📄 My Resume</h2>
 
@@ -95,14 +94,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
-
-
-<h2 align="center">📊 LeetCode Stats</h2>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="500" />
-</div>
-
 <br>
 
 <h2 align="center">🔎 Current Focus</h2>
@@ -127,6 +118,10 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="500" />
 </div>
 
 <br>
