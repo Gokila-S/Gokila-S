@@ -1,42 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=hey,%20i'm%20Gokila!&fontSize=50&fontColor=ffffff&fontAlignY=40" />
-</div>
-
-<h3 align="center">Full-Stack Developer • CSE Student • Problem Solver</h3>
 
 <div align="center">
-  <a href="https://gokila-s-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-6A5ACD?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
+
+<!-- ═══════════════════ WAVING HEADER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=hey,%20i'm%20Gokila!&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%"/>
+
+<!-- ═══════════════════ STYLED TAGLINE ═══════════════════ -->
+<h3 style="color: #6A5ACD;"><i>Full-Stack Developer · CSE Student · Problem Solver</i></h3>
+
+<br>
+
+<!-- ═══════════════════ ABOUT ME SECTION ═══════════════════ -->
+<h2>⭐ About Me</h2>
+
+<p>
+🎓 I'm a <strong>3rd-year Computer Science Engineering</strong> student<br><br>
+💜 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong><br><br>
+🚀 Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong><br><br>
+⚡ Comfortable with <strong>C, Java, and Python</strong><br><br>
+🗄️ Skilled in <strong>SQL, MongoDB</strong> and version control using <strong>Git & GitHub</strong><br><br>
+🧩 Solved <strong>300+ problems</strong> on LeetCode and actively participating in competitive programming<br><br>
+🌱 Eager to learn, build, and collaborate on impactful tech projects
+</p>
+
+<br>
+
+<!-- ═══════════════════ PORTFOLIO & RESUME BUTTONS ═══════════════════ -->
+<a href="https://gokila-s-dev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1J5_ENwsVkKKGsVdR2HxkLPtrhTByYdjY/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄_Download_Resume-EC4899?style=for-the-badge&logoColor=white" alt="Resume"/>
+</a>
+
+<br>
+
 </div>
 
 <br>
 
-<h2 align="center">✨ About Me</h2>
-
-<div align="center">
-  <p>🎓 I'm a <strong>3rd-year Computer Science Engineering</strong> student</p>
-  <p>💻 Passionate about <strong>Full-Stack Web Development (MERN Stack)</strong> and <strong>Problem Solving</strong></p>
-  <p>🚀 Proficient in <strong>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</strong></p>
-  <p>⚡ Comfortable with <strong>C, Java, and Python</strong></p>
-  <p>🗄️ Skilled in <strong>SQL, MongoDB</strong> and version control using <strong>Git & GitHub</strong></p>
-  <p>🧩 Solved <strong>300+ problems</strong> on LeetCode and actively participating in competitive programming</p>
-  <p>🌱 Eager to learn, build, and collaborate on impactful tech projects</p>
-</div>
-
-<br>
-
-<h2 align="center"> My Resume</h2>
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/1J5_ENwsVkKKGsVdR2HxkLPtrhTByYdjY/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-6A5ACD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+  Tech Stack
+</h2>
 
 <div align="center">
   <table>
@@ -89,7 +95,10 @@
 
 <br>
 
-<h2 align="center">🔎 Current Focus</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+  Current Focus
+</h2>
 
 <div align="center">
   <table border="0">
@@ -113,7 +122,10 @@
   </table>
 </div>
 
-<h2 align="center">🧩 LeetCode Journey</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px">
+  LeetCode Journey
+</h2>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="500" />
@@ -121,18 +133,22 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+  GitHub Stats
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokila-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokila-S&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokila-s&theme=tokyonight" />
 </div>
 
 <br>
 <br>
 
-<h2 align="center">🤝 Let's Connect</h2>
-
+<h2 align="center">
+  💜 Let's Connect
+</h2>
+<br>
 <div align="center">
   <a href="https://linkedin.com/in/gokila-s-39028a291">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -149,7 +165,10 @@
 </div>
 
 <div align="center">
-  <p><i>Let's collaborate on exciting projects! Feel free to reach out.</i></p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <br>
+  <p><i>✨ Let's collaborate on exciting projects! Feel free to reach out. ✨</i></p>
+  <br>
 </div>
 
 <br>
