@@ -5,7 +5,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=hey,%20i'm%20Gokila!&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
 <!-- ═══════════════════ STYLED TAGLINE ═══════════════════ -->
-<h3 style="color: #6A5ACD;"><i>Full-Stack Developer · CSE Student · Problem Solver</i></h3>
+<h3 align="center" style="color:#6A5ACD;">
+  💻 Full-Stack Developer · 🎓 CSE Student · 🧩 Problem Solver
+</h3>
+
 
 <br>
 
@@ -24,14 +27,12 @@
 
 <br>
 
-<!-- ═══════════════════ PORTFOLIO & RESUME BUTTONS ═══════════════════ -->
-<a href="https://gokila-s-dev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1J5_ENwsVkKKGsVdR2HxkLPtrhTByYdjY/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/📄_Download_Resume-EC4899?style=for-the-badge&logoColor=white" alt="Resume"/>
-</a>
+<!-- ═══════════════════ PORTFOLIO & RESUME LINKS ═══════════════════ -->
+<p>
+  <a href="https://gokila-s-dev.vercel.app/" target="_blank"><strong>🌐 Explore My Portfolio →</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1J5_ENwsVkKKGsVdR2HxkLPtrhTByYdjY/view?usp=sharing" target="_blank"><strong>📄 Download Resume →</strong></a>
+</p>
 
 <br>
 
