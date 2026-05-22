@@ -1,99 +1,92 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=220&section=header&text=Hey,%20I'm%20Gokila%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineer%20•%20Full-stack%20Developer&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:3B82F6,100:06B6D4&height=240&section=header&text=Hey,%20I'm%20Gokila%20👋&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Engineer%20•%20Full-stack%20Developer&descSize=16&descAlignY=57&descColor=f8fafc&animation=fadeIn" width="100%" />
+</p>
 
-<h2 align="center">✦ &nbsp; About Me &nbsp; ✦</h2>
+<p align="center">
+  <i>✨ Turning ideas into scalable and meaningful software experiences ✨</i>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://gokila-s-dev.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1-e2hi9V6FY7kwnAkGTUw6_eKE_KsU4Gp/view?usp=sharing">📄 Resume</a>
+</p>
 
-🎓 &nbsp; Pursuing **Computer Science Engineering** — where every semester adds a new layer to my stack
+<img align="right" alt="coding cat" width="300" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"/>
 
-💜 &nbsp; My world revolves around **React, Node.js, Express & MongoDB** — I build full experiences, not just pages
+<h2> &nbsp; About Me</h2>
 
-⚡ &nbsp; Polyglot programmer — fluent in **JavaScript**, conversational in **Java · Python · C**
+🎓 &nbsp; Pursuing **Computer Science Engineering**
 
-🗄️ &nbsp; Data flows through **MongoDB · PostgreSQL · MySQL** — I pick structure or flexibility as needed
+💻 &nbsp; Full-stack dev — **React · Node.js · Express · MongoDB**
 
-🧩 &nbsp; **300+ LeetCode problems** deep — DSA isn't a prep phase, it's a permanent habit
+🌱 &nbsp; Exploring **AI integrated into web development**
 
-🌱 &nbsp; Currently exploring **AI woven into web dev** — and always open to collabs that challenge me
+🎯 &nbsp; **350+ LeetCode** problems — DSA is a permanent habit
 
-<br>
+🗄️ &nbsp; **MongoDB · PostgreSQL · MySQL** — right tool, right job
 
-  <a href="https://gokila-s-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%20Explore%20Portfolio-6A5ACD?style=for-the-badge&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1-e2hi9V6FY7kwnAkGTUw6_eKE_KsU4Gp/view?usp=sharing target="_blank">
-    <img src="https://img.shields.io/badge/%20My%20Resume-9F8FEF?style=for-the-badge&logoColor=white"/>
-  </a>
+⚡ &nbsp; **JavaScript · Java** fluent &nbsp;·&nbsp; **Python · C** conversational
 
-</div>
+📫 &nbsp; gokila.sakthivel1@gmail.com
 
-<br>
+<br clear="right"/>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
   Tech Stack
 </h2>
 
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center">
+  <table style="border-collapse: collapse; border: none; width: 100%;">
+    <tr>
+      <td align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">
+        <h3>Languages</h3>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      </td>
+      <td align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">
+        <h3>Frontend</h3>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">
+        <h3>Backend & API</h3>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      </td>
+      <td align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">
+        <h3>Databases & Deploy</h3>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2" style="border: 1px solid #30363d; padding: 10px;">
+        <h3>Tools</h3>
+        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🔤 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ⚙️ Backend & API
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 🗄️ Databases & Deploy
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
 <br>
 
 <h2 align="center">
@@ -134,6 +127,8 @@
   <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="450" />
 </p>
 
+<br>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">
   GitHub Stats
@@ -145,7 +140,7 @@
 
 <br>
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/gokila-s-39028a291">
@@ -165,8 +160,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" alt="octocat"/>
   <p><i>✨ Let's collaborate on exciting projects! Feel free to reach out. ✨</i></p>
 </div>
 
