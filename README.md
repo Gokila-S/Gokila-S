@@ -1,169 +1,204 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:3B82F6,100:06B6D4&height=240&section=header&text=Hey,%20I'm%20Gokila%20👋&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Engineer%20•%20Full-stack%20Developer&descSize=16&descAlignY=57&descColor=f8fafc&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <i>✨ Turning ideas into scalable and meaningful software experiences ✨</i>
-</p>
-
-<p align="center">
-  <a href="https://gokila-s-dev.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1-e2hi9V6FY7kwnAkGTUw6_eKE_KsU4Gp/view?usp=sharing">📄 Resume</a>
-</p>
-
-<img align="right" alt="coding cat" width="300" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"/>
-
-<h2> &nbsp; About Me</h2>
-
-🎓 &nbsp; Pursuing **Computer Science Engineering**
-
-💻 &nbsp; Full-stack dev — **React · Node.js · Express · MongoDB**
-
-🌱 &nbsp; Exploring **AI integrated into web development**
-
-🎯 &nbsp; **350+ LeetCode** problems — DSA is a permanent habit
-
-🗄️ &nbsp; **MongoDB · PostgreSQL · MySQL** — right tool, right job
-
-⚡ &nbsp; **JavaScript · Java** fluent &nbsp;·&nbsp; **Python · C** conversational
-
-📫 &nbsp; gokila.sakthivel1@gmail.com
-
-<br clear="right"/>
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
-  Tech Stack
-</h2>
-
 <div align="center">
-  <table style="border-collapse: collapse; border: none; width: 100%;">
-    <tr>
-      <td align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">
-        <h3>Languages</h3>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      </td>
-      <td align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">
-        <h3>Frontend</h3>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">
-        <h3>Backend & API</h3>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      </td>
-      <td align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">
-        <h3>Databases & Deploy</h3>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" style="border: 1px solid #30363d; padding: 10px;">
-        <h3>Tools</h3>
-        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+
+<br/>
+
+```
+ ██████╗  ██████╗ ██╗  ██╗██╗██╗      █████╗ 
+██╔════╝ ██╔═══██╗██║ ██╔╝██║██║     ██╔══██╗
+██║  ███╗██║   ██║█████╔╝ ██║██║     ███████║
+██║   ██║██║   ██║██╔═██╗ ██║██║     ██╔══██║
+╚██████╔╝╚██████╔╝██║  ██╗██║███████╗██║  ██║
+ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+```
+
+**Computer Science Engineer** · **Full-Stack Developer** · **AI × Web**
+
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=4000&pause=1200&color=8B949E&background=FFFFFF00&center=true&vCenter=true&width=400&lines=building+scalable+full-stack+applications;integrating+ai+into+real-world+products;350%2B+leetcode+problems+solved" /></a>
+
+<br/>
+
+<a href="https://gokila-s-dev.vercel.app/">Portfolio</a>&ensp;·&ensp;<a href="https://drive.google.com/file/d/1-e2hi9V6FY7kwnAkGTUw6_eKE_KsU4Gp/view?usp=sharing">Resume</a>&ensp;·&ensp;<a href="https://linkedin.com/in/gokila-s-39028a291">LinkedIn</a>&ensp;·&ensp;<a href="https://www.leetcode.com/gokila014">LeetCode</a>&ensp;·&ensp;<a href="mailto:gokila.sakthivel1@gmail.com">Email</a>
+
 </div>
 
-<br>
+<br/>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">
-  Current Focus
-</h2>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
+<tr style="border: none;">
+<td width="60%" valign="top" style="border: none; padding-right: 20px;">
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center" style="border:none;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-        <h4>Full Stack Development</h4>
-        <p>Mastering MERN stack to build scalable web applications</p>
-      </td>
-      <td width="33%" align="center" style="border:none;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-        <h4>Problem Solving</h4>
-        <p>Sharpening DSA skills through LeetCode and competitive coding</p>
-      </td>
-      <td width="33%" align="center" style="border:none;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-        <h4>AI & Machine Learning</h4>
-        <p>Exploring artificial intelligence and its applications in web development</p>
-      </td>
-    </tr>
-  </table>
-</div>
+### About Me
 
-<br>
+I'm a Computer Science undergrad building **full-stack web applications** and **AI architectures**. I focus on clean systems, scalable code, and great user experiences.
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28px">
-  LeetCode Journey
-</h2>
+**→** MERN Stack, Supabase, PostgreSQL, and MySQL  
+**→** Oracle Certified Java SE 17 Developer & Generative AI Certified  
+**→** Solved **400+ DSA** problems across coding platforms  
+**→** JavaScript, Java (fluent) · Python, C (conversational)  
 
+
+</td>
+<td width="40%" align="center" valign="middle" style="border: none;">
+
+<img width="280" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM2MTU1ODIsIm5iZiI6MTc4MzYxNTI4MiwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA5VDE2NDEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNTQwNWVlMTIxMzE1NWZkNmM5MjIzYjhjYjc3ZWZlNDZhOTZiYjY1MmQyMmFhNjNiMjA5NmZiMjliMDIyZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.rm182O7tyVP4FSZRIT8npwrypRnBZXd919QDCSJGkuk"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">Tech Stack</h3>
+
+<br/>
+
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Fira%20Code&ext=contest" width="450" />
+  <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp&theme=dark" />
 </p>
 
-<br>
+<br/>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">
-  GitHub Stats
-</h2>
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,bootstrap,figma&theme=dark" />
+</p>
+
+<br/>
+
+<p align="center"><b>Backend & Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,mysql,supabase&theme=dark" />
+</p>
+
+<br/>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&theme=dark" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">Projects</h3>
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
+<td width="50%" valign="top" style="border: none; padding: 12px;">
+
+**[🛣️ RoadWatch](https://road-watch-seven.vercel.app/)** &ensp; <sub>[source](https://github.com/Gokila-S/RoadWatch)</sub>
+
+AI-powered civic-tech platform for road damage reporting with TensorFlow image validation, geo-tagged live maps, and district-level incident management.
+
+`React` `Express` `Supabase` `Python` `TensorFlow`
+
+</td>
+<td width="50%" valign="top" style="border: none; padding: 12px;">
+
+**[🧬 ResistAI](https://resist-ai.onrender.com/)** &ensp; <sub>[source](https://github.com/Gokila-S/HackBio-26-ResistAI)</sub>
+
+ML-driven antibiotic resistance predictor with **98%+ AUC** from genomic data. SHAP explainability, WHO AWaRe classification, and D3.js visual analytics.
+
+`Python` `Flask` `XGBoost` `SHAP` `D3.js`
+
+</td>
+</tr>
+<tr border="0">
+<td width="50%" valign="top" style="border: none; padding: 12px;">
+
+**[🧠 LearnMate AI](https://learnmatehq.vercel.app/)** &ensp; <sub>[source](https://github.com/Gokila-S/LearnMate-AI-Powered-Online-Learning-Platform/)</sub>
+
+AI-driven LMS with context-aware chatbot tutoring, automated quiz generation, multi-format lessons, and progress analytics.
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+<td width="50%" valign="top" style="border: none; padding: 12px;">
+
+**[🌊 OceanSafe](https://wocas.vercel.app/map)** &ensp; <sub>[source](https://github.com/Gokila-S/CoastSafe)</sub>
+
+Coastal risk monitoring platform with geofencing-powered hazard detection and real-time citizen alert workflows.
+
+`Flutter` `React` `Supabase` `Leaflet`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Gokila-S?tab=repositories"><b>→ View all projects</b></a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">LeetCode</h3>
+
+<br/>
+
+<p align="center">
+  <a href="https://leetcode.com/gokila014">
+    <img src="https://leetcard.jacoblin.cool/Gokila014?theme=dark&font=Inter&ext=contest&border=0" width="460" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">GitHub</h3>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokila-s&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="55%" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokila-s&theme=tokyonight" width="850" />
 </p>
 
-<br>
+<br/>
 
-<h2 align="center">Let's Connect</h2>
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/gokila-s-39028a291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.leetcode.com/gokila014">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="mailto:gokila.sakthivel1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://gokila-s-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</div>
-
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" alt="octocat"/>
-  <p><i>✨ Let's collaborate on exciting projects! Feel free to reach out. ✨</i></p>
+
+<h3>Let's Connect</h3>
+
+<br/>
+
+<a href="https://linkedin.com/in/gokila-s-39028a291"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25" /></a>&ensp;
+<a href="https://www.leetcode.com/gokila014"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=black" height="25" /></a>&ensp;
+<a href="mailto:gokila.sakthivel1@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white" height="25" /></a>&ensp;
+<a href="https://gokila-s-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%237F5AF0?style=flat-square&logo=vercel&logoColor=white" height="25" /></a>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200" />
+
+<br/><br/>
+
+**Thanks for visiting!** 🚀
+
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=100&section=footer" width="100%"/>
