@@ -11,42 +11,47 @@
  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-**Computer Science Engineer** · **Full-Stack Developer** · **AI × Web**
+<p>
+<code>CSE Undergrad</code> &nbsp;—&nbsp; <code>Full-Stack Developer</code> &nbsp;—&nbsp; <code>AI × Web</code>
+</p>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=4000&pause=1200&color=8B949E&background=FFFFFF00&center=true&vCenter=true&width=400&lines=building+scalable+full-stack+applications;integrating+ai+into+real-world+products;350%2B+leetcode+problems+solved" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=3500&pause=1500&color=6E7681&background=FFFFFF00&center=true&vCenter=true&width=435&lines=building+scalable+full-stack+applications;integrating+ai+into+real-world+products;400%2B+dsa+problems+solved;always+shipping.+always+learning." /></a>
 
 <br/>
 
-<a href="https://gokila-s-dev.vercel.app/">Portfolio</a>&ensp;·&ensp;<a href="https://drive.google.com/file/d/1-e2hi9V6FY7kwnAkGTUw6_eKE_KsU4Gp/view?usp=sharing">Resume</a>&ensp;·&ensp;<a href="https://linkedin.com/in/gokila-s-39028a291">LinkedIn</a>&ensp;·&ensp;<a href="https://www.leetcode.com/gokila014">LeetCode</a>&ensp;·&ensp;<a href="mailto:gokila.sakthivel1@gmail.com">Email</a>
+<a href="https://gokila-s-dev.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0D1117?style=flat&logo=vercel&logoColor=58a6ff" /></a>&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1-e2hi9V6FY7kwnAkGTUw6_eKE_KsU4Gp/view?usp=sharing"><img src="https://img.shields.io/badge/resume-0D1117?style=flat&logo=googledocs&logoColor=58a6ff" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/gokila-s-39028a291"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat&logo=linkedin&logoColor=58a6ff" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/gokila014"><img src="https://img.shields.io/badge/leetcode-0D1117?style=flat&logo=leetcode&logoColor=58a6ff" /></a>&nbsp;&nbsp;
+<a href="mailto:gokila.sakthivel1@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=flat&logo=gmail&logoColor=58a6ff" /></a>
+
+<br/>
 
 </div>
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
-<tr style="border: none;">
-<td width="60%" valign="top" style="border: none; padding-right: 20px;">
+<div align="center">
 
-### About Me
+<h3 align="center">About me</h3>
 
-I'm a Computer Science undergrad building **full-stack web applications** and **AI architectures**. I focus on clean systems, scalable code, and great user experiences.
+<br/>
 
-**→** MERN Stack, Supabase, PostgreSQL, and MySQL  
-**→** Oracle Certified Java SE 17 Developer & Generative AI Certified  
-**→** Solved **400+ DSA** problems across coding platforms  
-**→** JavaScript, Java (fluent) · Python, C (conversational)  
+CS undergrad passionate about building **full-stack applications** and **AI-powered products**.  
+I care about clean architecture, scalable systems, and thoughtful user experiences.
 
+<br/>
 
-</td>
-<td width="40%" align="center" valign="middle" style="border: none;">
-
-<img width="280" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM2MTU1ODIsIm5iZiI6MTc4MzYxNTI4MiwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA5VDE2NDEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNTQwNWVlMTIxMzE1NWZkNmM5MjIzYjhjYjc3ZWZlNDZhOTZiYjY1MmQyMmFhNjNiMjA5NmZiMjliMDIyZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.rm182O7tyVP4FSZRIT8npwrypRnBZXd919QDCSJGkuk"/>
-
-</td>
-</tr>
+<table>
+<tr><td><code>></code></td><td><b>Stack</b></td><td>MERN · Supabase · PostgreSQL · MySQL</td></tr>
+<tr><td><code>></code></td><td><b>Certs</b></td><td>Java SE 17 · Oracle Generative AI Certified</td></tr>
+<tr><td><code>></code></td><td><b>DSA</b></td><td>400+ problems solved across platforms</td></tr>
+<tr><td><code>></code></td><td><b>Languages</b></td><td>JavaScript, Java, Python, C</td></tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -60,7 +65,7 @@ I'm a Computer Science undergrad building **full-stack web applications** and **
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp,dart&theme=dark" />
 </p>
 
 <br/>
@@ -168,10 +173,6 @@ Coastal risk monitoring platform with geofencing-powered hazard detection and re
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokila-s&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="55%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokila-s&theme=tokyonight" width="850" />
 </p>
 
@@ -192,13 +193,8 @@ Coastal risk monitoring platform with geofencing-powered hazard detection and re
 <a href="mailto:gokila.sakthivel1@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white" height="25" /></a>&ensp;
 <a href="https://gokila-s-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%237F5AF0?style=flat-square&logo=vercel&logoColor=white" height="25" /></a>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200" />
-
 <br/><br/>
 
 **Thanks for visiting!** 🚀
 
 </div>
-
